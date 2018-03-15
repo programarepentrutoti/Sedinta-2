@@ -62,4 +62,5 @@ void print(Queue *queue) {
 }
 
 int main(){
+    return 0;
 }
