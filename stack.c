@@ -60,5 +60,5 @@ void print(Stack *stack) {
 }
 
 int main() {
-
+    return 0;
 }
